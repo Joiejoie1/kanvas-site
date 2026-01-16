@@ -27,7 +27,7 @@ jobs:
       - name: Install npm deps (PostCSS)
         run: |
           cd site
-          npm ci
+          npm install
       - name: Build site 🔧
         run: make site-build
       - name: Zip site output
