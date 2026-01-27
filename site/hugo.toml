@@ -1,6 +1,6 @@
 baseURL = 'https://kanvas.meshery.io' #temporary
 title = 'Kanvas'
-canonifyurls: true
+canonifyurls = true
 
 # Language settings
 contentDir = "content/en"
