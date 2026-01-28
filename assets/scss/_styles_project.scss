@@ -1,12 +1,12 @@
 // 1. Imports
+@import "bootstrap_compat";
+@import "variables_project";
 @import "fonts_project";
-@import "_content_project";
+@import "content_project";
 @import "modes";
 @import "demo";
-@import "variables_project"; 
 @import "header";
 @import "hero";
-@import "modes";
 @import "capabilities";
 @import "community";
 @import "footer";
