@@ -21,4 +21,4 @@ area/maintainers:
       - any-glob-to-any-file:
           - "Makefile"
           - "package.json"
-          - "netlify.toml"
+          
